@@ -2,4 +2,4 @@
 
 This is a game about Bee vs Hornets.
 
-Run BeeColony to play ;)
+Run `BeeColony` to play ;)

@@ -4,7 +4,7 @@ This is a game about Bee vs Hornets.
 
 Run `BeeColony` to play ;)
 
-## Description
+## Character Description
 ### Honey Bees
 
 - ***Busy Bees***. Bees that collect pollen.

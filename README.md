@@ -1,6 +1,6 @@
 # Tower Defense Game
 
-This is a game about Bee vs Hornets.
+This is a game about Bees vs Hornets.
 
 Run `BeeColony` to play ;)
 

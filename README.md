@@ -1,8 +1,11 @@
-# Tower Defense Game
+# Guardians of the Hive
 
-This is a game about Bees vs Hornets.
+This is a tower defense game about Bees vs Hornets.
 
 Run `BeeColony` to play ;)
+
+## Objectif
+Stop the hornets and protect the hive at all cost!
 
 ## Character Description
 ### Honey Bees
@@ -15,3 +18,4 @@ Run `BeeColony` to play ;)
 - ***Sniper Bees***. These bees are highly skilled marksbees, armed with a long-range stinger enabling them to eliminate hornets from a distance with precision. Their two-step attack involves aiming before releasing a potent shot that pierces through multiple hornets in a straight line, effectively reducing approaching swarms. While incredibly powerful, their slower rate of fire and vulnerability at close range necessitate strategic placement to optimize their effectiveness. 
 
 - ***Hornet Queen***. Almost twice the length of an average hornet, the leader of the hornets commands fear. With astonishing speed, she can execute two attacks within the time it takes a regular hornet to launch just one. Furthermore, when this formidable leader enters the battlefield, the entire swarm experiences a significant morale boost, resulting in rapid health regeneration. 
+
